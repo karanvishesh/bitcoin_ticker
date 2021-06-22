@@ -1,4 +1,7 @@
 # bitcoin_ticker
+![btc1](https://user-images.githubusercontent.com/66847518/122931816-dbb5bb80-d38a-11eb-846b-ff5350e77e49.jpg)
+![btc2](https://user-images.githubusercontent.com/66847518/122931837-df494280-d38a-11eb-8bd3-5d5f64391971.jpg)
+![btc3](https://user-images.githubusercontent.com/66847518/122931850-e2dcc980-d38a-11eb-878f-787f60f66e6d.jpg)
 
 A new Flutter project.
 
